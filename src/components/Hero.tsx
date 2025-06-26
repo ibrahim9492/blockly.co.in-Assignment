@@ -18,7 +18,7 @@ const Hero: React.FC = () => {
             {/* Main Heading */}
             <div className="space-y-4">
               <h1 className="text-4xl sm:text-5xl lg:text-6xl font-bold text-gray-900 dark:text-white">
-                I'm <span className="text-gray-600 dark:text-gray-300">Mounika</span> 👋
+                I'm <span className="text-gray-600 dark:text-gray-300">Ibrahim Shaik</span> 👋
               </h1>
               <p className="text-lg sm:text-xl text-gray-600 dark:text-gray-400 max-w-lg">
                 Full Stack Developer Trainee passionate about building responsive and user-friendly web applications.
@@ -28,7 +28,7 @@ const Hero: React.FC = () => {
             {/* Buttons */}
             <div className="flex flex-col sm:flex-row space-y-4 sm:space-y-0 sm:space-x-4">
               <a
-                href="https://drive.google.com/file/d/1wKFQoEcp-Rukb38LY0FdPXBi0DX26Syg/view?usp=sharing"
+                href="https://drive.google.com/file/d/1NC7XMj2rOp02Mq4_TbhNP04ka2BeXIDz/view?usp=sharing"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="inline-flex items-center px-6 py-3 bg-orange-500 hover:bg-orange-600 text-white rounded-lg font-medium transition-colors duration-200 shadow-lg hover:shadow-xl"
@@ -56,8 +56,8 @@ const Hero: React.FC = () => {
             {/* Profile Image */}
             <div className="relative z-10 w-72 h-72 rounded-full overflow-hidden border-4 border-white dark:border-gray-800 shadow-2xl">
               <img
-                src="https://res.cloudinary.com/drecb9hgv/image/upload/Screenshot_1339_k7rrix.png"
-                alt="Vemula Mounika"
+                src="https://png.pngtree.com/png-vector/20250404/ourlarge/pngtree-a-pixel-art-handsome-man-avatar-male-character-25-years-old-png-image_15927643.png"
+                alt="Ibrahim Shaik"
                 className="w-full h-full object-cover"
               />
             </div>

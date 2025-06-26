@@ -86,10 +86,10 @@ const Contact: React.FC = () => {
                 <div>
                   <h4 className="font-semibold text-gray-900 dark:text-white">Email</h4>
                   <a 
-                    href="mailto:vemulamounika540@gmail.com"
+                    href="mailto:ibrahimkhalandar02@gmail.com"
                     className="text-gray-600 dark:text-gray-400 hover:text-teal-500 dark:hover:text-teal-400 transition-colors duration-200"
                   >
-                    vemulamounika540@gmail.com
+                    ibrahimkhalandar02@gmail.com
                   </a>
                 </div>
               </div>
@@ -112,7 +112,7 @@ const Contact: React.FC = () => {
               </h4>
               <div className="flex space-x-4">
                 <a
-                  href="https://linkedin.com/in/vemulamounika1025"
+                  href="https://linkedin.com/in/ibrahim-khalandar-shaik/"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-blue-600 text-white rounded-lg flex items-center justify-center hover:bg-blue-700 transition-colors duration-200"
@@ -122,7 +122,7 @@ const Contact: React.FC = () => {
                   </svg>
                 </a>
                 <a
-                  href="https://github.com/mounika-2510"
+                  href="https://github.com/ibrahim9492"
                   target="_blank"
                   rel="noopener noreferrer"
                   className="w-12 h-12 bg-gray-800 dark:bg-gray-600 text-white rounded-lg flex items-center justify-center hover:bg-gray-900 dark:hover:bg-gray-500 transition-colors duration-200"

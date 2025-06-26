@@ -31,7 +31,7 @@ const About: React.FC = () => {
             
             <div className="space-y-6 text-gray-700 dark:text-gray-300 text-lg leading-relaxed">
               <p>
-                I'm <strong>Mounika</strong>, a <strong>Full Stack Developer Trainee</strong> passionate about building 
+                I'm <strong>Ibrahim Shaik</strong>, a <strong>Full Stack Developer Trainee</strong> passionate about building 
                 responsive and user-friendly web applications. I enjoy combining clean code with visually appealing designs.
               </p>
               
@@ -42,7 +42,7 @@ const About: React.FC = () => {
               
               <p>
                 Currently, I'm building real-world projects and continuously improving my <strong>frontend and backend expertise</strong>. 
-                I hold a <strong>bachelor degree in Computer Applications</strong> and have been actively involved in web development 
+                I hold a <strong>bachelor of technology in Computer science and engineering</strong> and have been actively involved in web development 
                 for the past year.
               </p>
               

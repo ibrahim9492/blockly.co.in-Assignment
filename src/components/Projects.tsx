@@ -4,22 +4,22 @@ import { ExternalLink, Github, Clock, Users } from 'lucide-react';
 const Projects: React.FC = () => {
   const projects = [
     {
-      title: 'Match Game',
-      description: 'A fun and engaging memory game where users match images under time pressure. Built with React.js and features responsive design, timer functionality, and score tracking.',
-      image: 'https://res.cloudinary.com/drecb9hgv/image/upload/v1747477566/Screenshot_1258_opxhmh.png',
+      title: 'Medication Management System',
+      description: 'This is a responsive static business website built as part of the Website Learners Assignment. The project showcases a clean and modern UI, highlighting essential sections such as services, features, testimonials, and contact. Designed to promote a tech or educational brand, it delivers a professional layout optimized for all screen sizes.',
+      image: 'https://res.cloudinary.com/drecb9hgv/image/upload/v<timestamp>/Screenshot_1258_medication_management.png',
       tech: ['React.js', 'CSS', 'JavaScript'],
-      github: 'https://github.com/mounika-2510/Match-Game',
-      live: 'https://mgvm.ccbp.tech',
-      features: ['Time-based gameplay', 'Score tracking', 'Responsive design', 'Interactive UI']
+      github: 'https://github.com/ibrahim9492/Website-Learners-Assignment.git',
+      live: 'https://website-learners-assignment.vercel.app/',
+      features: ['Responsive design', 'Clean and modern UI layout', 'Multi-section landing page', 'Cross-browser compatibility']
     },
     {
-      title: 'My Tasks',
-      description: 'A comprehensive task management application that allows users to add, edit, delete, and organize their daily tasks efficiently. Features a clean, intuitive interface.',
-      image: 'https://res.cloudinary.com/drecb9hgv/image/upload/v1748009853/Screenshot_1318_bocjmg.png',
-      tech: ['React.js', 'CSS', 'Local Storage'],
-      github: 'https://github.com/mounika-2510/My-Tasks',
-      live: 'https://mytaskvm.ccbp.tech',
-      features: ['Add/Delete tasks', 'Task categorization', 'Local storage', 'Clean interface']
+      title: 'Company Static Business Website',
+      description: 'This is a web-based sorting utility built to demonstrate dynamic content sorting on the frontend. It allows users to sort items (such as lists, cards, or tables) based on different parameters like name, price, or date. The interface is clean, interactive, and responsive across devices.',
+      image: 'https://cdn.dribbble.com/users/4189236/screenshots/15057550/media/b839cd39cd6a1a65b81bb9ec8133b765.png',
+      tech: ['React.js', 'CSS', 'JavaScript'],
+      github: 'https://github.com/ibrahim9492/Web-Sort-Assignment.git',
+      live: 'https://web-sort-assignment-eta.vercel.app/',
+      features: ['Dynamic sorting functionality', 'Interactive UI elements', 'Responsive layout', 'User-friendly design']
     }
   ];
 
@@ -121,7 +121,7 @@ const Projects: React.FC = () => {
             Want to see more of my work?
           </p>
           <a
-            href="https://github.com/mounika-2510"
+            href="https://github.com/ibrahim9492"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center px-6 py-3 bg-gray-900 dark:bg-white text-white dark:text-gray-900 rounded-lg font-medium hover:bg-gray-800 dark:hover:bg-gray-100 transition-colors duration-200 shadow-lg hover:shadow-xl"

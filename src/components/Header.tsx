@@ -29,10 +29,10 @@ const Header: React.FC = () => {
           {/* Logo */}
           <div className="flex items-center space-x-2">
             <div className="w-8 h-8 bg-gradient-to-r from-teal-400 to-cyan-400 rounded-lg flex items-center justify-center">
-              <span className="text-white font-bold text-sm">VM</span>
+              <span className="text-white font-bold text-sm">IS</span>
             </div>
             <span className="font-bold text-gray-900 dark:text-white text-lg">
-              VEMULA MOUNIKA
+              IBRAHIM SHAIK
             </span>
           </div>
 

@@ -5,25 +5,25 @@ const SocialSidebar: React.FC = () => {
   const socialLinks = [
     {
       name: 'LinkedIn',
-      href: 'https://linkedin.com/in/vemulamounika1025',
+      href: 'https://linkedin.com/in/ibrahim-khalandar-shaik/',
       icon: <Linkedin className="w-5 h-5" />,
       color: 'hover:bg-blue-600'
     },
     {
       name: 'GitHub',
-      href: 'https://github.com/mounika-2510',
+      href: 'https://github.com/ibrahim9492',
       icon: <Github className="w-5 h-5" />,
       color: 'hover:bg-gray-800 dark:hover:bg-gray-600'
     },
     {
       name: 'Email',
-      href: 'mailto:vemulamounika1025@gmail.com',
+      href: 'mailto:ibrahimkhalandar02@gmail.com',
       icon: <Mail className="w-5 h-5" />,
       color: 'hover:bg-red-600'
     },
     {
       name: 'Resume',
-      href: 'https://drive.google.com/file/d/1wKFQoEcp-Rukb38LY0FdPXBi0DX26Syg/view?usp=sharing',
+      href: 'https://drive.google.com/file/d/1NC7XMj2rOp02Mq4_TbhNP04ka2BeXIDz/view?usp=sharing',
       icon: <FileText className="w-5 h-5" />,
       color: 'hover:bg-orange-600'
     }
