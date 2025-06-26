@@ -1,4 +1,4 @@
-# Vemula Mounika - Portfolio Website(Blockly.co.in)
+# Ibrahim Shaik - Portfolio Website(Blockly.co.in)
 
 A modern, responsive portfolio website showcasing my journey as a Full Stack Developer Trainee.
 
@@ -32,8 +32,8 @@ A modern, responsive portfolio website showcasing my journey as a Full Stack Dev
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/mounika-2510/portfolio-website.git
-cd portfolio-website
+git clone https://github.com/ibrahim9492/blockly.co.in-Assignment.git
+cd blockly.co.in-Assignment
 ```
 
 2. Install dependencies:
@@ -111,17 +111,17 @@ Update personal details in the respective components:
 
 ## 📊 Featured Projects
 
-### 1. Match Game
-- **Description**: Memory game with time-based gameplay
+### 1. Medication Management System
+- **Description**: This is a responsive static business website built as part of the Website Learners Assignment.
 - **Tech Stack**: React.js, CSS, JavaScript
-- **Features**: Timer, score tracking, responsive design
-- **Live Demo**: [mgvm.ccbp.tech](https://mgvm.ccbp.tech)
+- **Features**: Responsive design', 'Clean and modern UI layout', 'Multi-section landing page', 'Cross-browser compatibility
+- **Live Demo**: https://website-learners-assignment.vercel.app/
 
-### 2. My Tasks
-- **Description**: Task management application
-- **Tech Stack**: React.js, CSS, Local Storage
-- **Features**: Add/delete tasks, categorization, persistence
-- **Live Demo**: [mytaskvm.ccbp.tech](https://mytaskvm.ccbp.tech)
+### 2. Company Static Business Website
+- **Description**: This is a web-based sorting utility built to demonstrate dynamic content sorting on the frontend
+- **Tech Stack**: React.js, CSS, JavaScript
+- **Features**: Dynamic sorting functionality', 'Interactive UI elements', 'Responsive layout', 'User-friendly design
+- **Live Demo**: https://web-sort-assignment-eta.vercel.app/
 
 
 ## 🤝 Contributing
